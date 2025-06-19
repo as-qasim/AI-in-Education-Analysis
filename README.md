@@ -2,13 +2,13 @@
   <img src="banner.png" alt="AI in Education – Banner" width="100%">
 </p>
 
-# 🤖 AI in Education – Survey-Based Analysis
+# AI in Education – Survey-Based Analysis
 
 This project explores how students and teachers from various academic fields perceive the impact of Artificial Intelligence (AI) in education. Based on over **150 survey responses**, the analysis aims to uncover key differences in AI adoption attitudes across disciplines like **Medicine**, **Law**, and **Data Science**.
 
 ---
 
-## 📊 Technologies Used
+## Technologies Used
 
 - **Python**
 - `pandas` – data cleaning & manipulation  
@@ -111,5 +111,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 **Ahmad Sohaib Qasim**  
 BS Data Science, Punjab University  
 [GitHub](https://github.com/as-qasim)  
-[LinkedIn](https://linkedin.com/in/asqasim)
-[Website](asqasim.netlify.app)
+[LinkedIn](https://linkedin.com/in/asqasim)  
+[Website](https://asqasim.netlify.app)  
+📧 [qasim.datadev@gmail.com](mailto:qasim.datadev@gmail.com)
+
