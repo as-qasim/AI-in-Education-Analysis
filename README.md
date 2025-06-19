@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="AI in Education – Banner" width="80%">
+  <img src="banner.gif" alt="AI in Education – Banner" width="80%">
 </p>
 
 # AI in Education – Survey-Based Analysis
