@@ -22,7 +22,7 @@ This project explores how students and teachers from various academic fields per
 
 ```
 AI-in-Education-Analysis/
-├── analysis_scripts/               # Python scripts for each hypothesis
+├── analysis_scripts/              
 │   ├── effectiveness_ai_tutors.py
 │   ├── support_ai_integration.py
 │   ├── ai_grading_accuracy.py
@@ -31,7 +31,7 @@ AI-in-Education-Analysis/
 │   ├── ai_cheating_prevalence.py
 │   ├── age_difference_perception.py
 │   └── field_study_difference.py
-├── graphs/                         # Output plots for analysis
+├── graphs/                       
 │   ├── effectiveness_ai_tutors.png
 │   ├── support_ai_integration.png
 │   ├── ai_grading_accuracy.png
