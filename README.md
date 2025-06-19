@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="AI in Education – Banner" width="100%">
+  <img src="banner.png" alt="AI in Education – Banner" width="80%">
 </p>
 
 # AI in Education – Survey-Based Analysis
@@ -44,34 +44,50 @@ AI-in-Education-Analysis/
 ├── README.md                       # Project documentation
 └── .gitignore
 ```
-
 ---
 
 ## 📈 Key Insights & Visualizations
 
 ### 1. Effectiveness of AI Tutors vs Human Teachers  
-![Effectiveness of AI Tutors](graphs/effectiveness_ai_tutors.png)
+<p align="center">
+  <img src="graphs/effectiveness_ai_tutors.png" alt="Effectiveness of AI Tutors" width="50%">
+</p>
 
 ### 2. Support for AI Integration in Teaching  
-![Support for AI Integration](graphs/support_ai_integration.png)
+<p align="center">
+  <img src="graphs/support_ai_integration.png" alt="Support for AI Integration" width="50%">
+</p>
 
 ### 3. AI Grading Accuracy  
-![AI Grading Accuracy](graphs/ai_grading_accuracy.png)
+<p align="center">
+  <img src="graphs/ai_grading_accuracy.png" alt="AI Grading Accuracy" width="50%">
+</p>
 
 ### 4. Impact of AI on Learning Experience  
-![Impact on Learning Experience](graphs/impact_learning_experience.png)
+<p align="center">
+  <img src="graphs/impact_learning_experience.png" alt="Impact on Learning Experience" width="50%">
+</p>
 
 ### 5. Trust in AI-Generated Study Materials  
-![Trust in AI Materials](graphs/trust_ai_materials.png)
+<p align="center">
+  <img src="graphs/trust_ai_materials.png" alt="Trust in AI Materials" width="50%">
+</p>
 
 ### 6. AI Cheating Prevalence  
-![AI Cheating Prevalence](graphs/ai_cheating_prevalence.png)
+<p align="center">
+  <img src="graphs/ai_cheating_prevalence.png" alt="AI Cheating Prevalence" width="50%">
+</p>
 
 ### 7. Age Difference in AI Effectiveness Perception  
-![Age Difference in Perception](graphs/age_difference_perception.png)
+<p align="center">
+  <img src="graphs/age_difference_perception.png" alt="Age Difference in Perception" width="50%">
+</p>
 
 ### 8. Field of Study Difference in AI Acceptance  
-![Field of Study Difference](graphs/field_study_difference.png)
+<p align="center">
+  <img src="graphs/field_study_difference.png" alt="Field of Study Difference" width="50%">
+</p>
+
 
 ---
 
@@ -110,8 +126,9 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 **Ahmad Sohaib Qasim**  
 BS Data Science, Punjab University  
+[qasim.datadev@gmail.com](mailto:qasim.datadev@gmail.com)  
 [GitHub](https://github.com/as-qasim)  
 [LinkedIn](https://linkedin.com/in/asqasim)  
 [Website](https://asqasim.netlify.app)  
-📧 [qasim.datadev@gmail.com](mailto:qasim.datadev@gmail.com)
+
 
