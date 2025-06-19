@@ -22,7 +22,7 @@ This project is an academic data analysis repository and does **not include any 
 
 If you discover a vulnerability, please **open a private issue** or **email the project owner directly** at:
 
-**ahmadsohaibqasim@gmail.com**
+**qasim.datadev@gmail.com**
 
 In your report, please include:
 - A brief description of the vulnerability
